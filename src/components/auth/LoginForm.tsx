@@ -238,7 +238,7 @@ const LoginForm: React.FC<LoginFormProps> = ({ onShowSignup }) => {
       <div className="mb-6 p-4 bg-blue-50 dark:bg-blue-900/30 border border-blue-200 dark:border-blue-800 rounded-lg">
         <h3 className="font-medium text-blue-800 dark:text-blue-300 mb-2">Mock Login Credentials</h3>
         <div className="text-sm text-gray-700 dark:text-gray-300 space-y-1">
-          <p><span className="font-medium">Student:</span> Email: john.doe@university.edu or ID: STU001</p>
+          <p><span className="font-medium">Student:</span> Email: snk@university.edu or ID: STU001</p>
           <p><span className="font-medium">Faculty:</span> Email: robert.johnson@university.edu or ID: FAC001</p>
           <p className="italic mt-2">Any password will work with the mock data</p>
           <p className="italic">For OTP verification, use code: 123456</p>
