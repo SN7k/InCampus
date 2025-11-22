@@ -2,7 +2,7 @@
 
 InCampus is a social media platform designed specifically for college students and faculty. It provides a space for academic networking, sharing resources, and building a community within educational institutions.
 
-<img width="1920" height="1536" alt="Image" src="https://github.com/user-attachments/assets/9c031ee6-bf4b-4ec6-8003-2031b24b061d" />
+<img width="1920" height="1536" alt="Image" src="https://github.com/user-attachments/assets/c6cca8c1-2f43-4435-9ca6-bb59c72b95d0" />
 ## Features
 
 - **User Authentication**: Secure login and signup system for students and faculty
